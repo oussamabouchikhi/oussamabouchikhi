@@ -1,7 +1,7 @@
 ### Hi there, I'm Oussama 👋
 
 <div align="center">
-  <img width="100%" src="assets/cover.png" alt="cover" />
+  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/cover.png" alt="cover" />
 </div>
 
 
@@ -17,7 +17,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img width="70%" src="assets/skills.png" alt="cover" />
+        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
       </td>
     </tr>
   </tbody>
