@@ -27,7 +27,11 @@
 
 ## About me
 I am Oussama Bouchikhifrom Algeria, I'm a computer science student a full stack web developer and an open source enthusiast. I like programming , design, photography and I always want to learn new things.
-
+<hr>
+<a href="http://hits.dwyl.com/oussamabouchikhi/oussamabouchikhi">
+  <img src="http://hits.dwyl.com/oussamabouchikhi/oussamabouchikhi.svg"
+</a>
+  
 <h2><i>Follow me:</i></h2>
 <div  align="center">
 
