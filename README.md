@@ -26,7 +26,7 @@
 </div>
 
 ## About me
-I am Oussama Bouchikhifrom Algeria, I'm a computer science student a full stack web developer and an open source enthusiast. I like programming , design, photography and I always want to learn new things.
+I am Oussama Bouchikhi from Algeria, I'm a computer science student a full stack web developer and an open source enthusiast. I like programming , design, photography and I always want to learn new things.
 <hr>
 <a href="http://hits.dwyl.com/oussamabouchikhi/oussamabouchikhi">
   <img src="http://hits.dwyl.com/oussamabouchikhi/oussamabouchikhi.svg"
@@ -54,11 +54,11 @@ I am Oussama Bouchikhifrom Algeria, I'm a computer science student a full stack 
   <a href="https://www.freelancer.com/u/oussamabouchikhi" target="_blank">
     <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
   </a>
-  <a href="https://twitter.com/oussth3boss/" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01f42213ee8a3771ac" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
   </a>
 <a href="https://www.fiverr.com/oussama700" target="_blank">
-    <img src="https://img.shields.io/badge/Fiver-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Upwork">
+    <img src="https://img.shields.io/badge/Fiver-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Fiver">
   </a>
 </div>
 
