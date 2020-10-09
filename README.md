@@ -35,6 +35,11 @@ I am Oussama Bouchikhi from Algeria, I'm a computer science student a full stack
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabouchikhi&bg_color=071A2C&text_color=FFFFFF" alt="oussamabouchikhi's top langs"/>
 </p>
 
+<p>
+  <b>For more Github info </b>
+  <a href="https://gitprofilee.netlify.app/user?id=oussamabouchikhi">check this</a>
+</p>
+
 <h2><i>Follow me:</i></h2>
 <div  align="center">
 
