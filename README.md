@@ -56,6 +56,10 @@ I always want to learn new things.
 
 <br /><br />
 
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ousstheboss)
+
+
 <h2><i>Follow me:</i></h2>
 <div  align="center">
 
